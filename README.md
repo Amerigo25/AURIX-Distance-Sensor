@@ -1,2 +1,2 @@
 # AURIX-Distance-Sensor
-See the pdf
+See DistanceSensor.pdf
